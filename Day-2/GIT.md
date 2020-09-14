@@ -14,24 +14,20 @@ Meaning GitHub is an online hosting service for development projects. It's also 
 ### What is the difference?
 Simply put, Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories. If you have open-source projects that use Git, then GitHub is designed to help you better manage them.
 
+## GIT Setup
+The odin project has a great page dedicated to setting up git.
+
+https://www.theodinproject.com/courses/web-development-101/lessons/setting-up-git
+
 ## GIT Commands
 
 ### GIT Clone
 
-Copy the repo url, you can find that in the repo.
-Look for the green button named "Code" on the right.  
-
+In GitHub. Look for the green button named "Code" on the right.
+Copy the repo url.
 ```
 git clone [repo url]
 cd [name of folder]
-git remote origin
-```
-You can also verify the origins or URLs that git has stored
-
-```
-git remote -v
-origin	https://github.com/freecodingbootcamp/Intro_to_GIT.git (fetch)
-origin	https://github.com/freecodingbootcamp/Intro_to_GIT.git (push)
 ```
 
 ### Git Init
@@ -41,17 +37,14 @@ Start a new Git repository for an existing code base
 ```
 cd /path/to/file
 git init
-git add .
-git commit -m'write your note'
 ```
-You can also verify if you're folder has git files by listing "all" the files and seeing the .git file
-
+If you see a hidden .git file you are good to go. Run the command ```ls -a```
 ```
 ls -a
-.		..		.git		Git_Clone.md	Git_Init.md
+.		..		--> .git <--		
 ```
 
-### More commands...
+### More commands coming soon...
 
 ## Other Notes
 
@@ -68,9 +61,6 @@ Git remote repository
  git commit -m'I made my first change'
  git push origin
  ```
-
-
-
 
 ### Sources
 
