@@ -1,1 +1,5 @@
 # Week-1 -- Day-2
+
+1. GIT and GITHUB
+2. TERMINAL
+3. INTRO TO WEB
