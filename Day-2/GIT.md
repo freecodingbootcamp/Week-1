@@ -72,9 +72,9 @@ Git remote repository
 
 
 
-### Source
+### Sources
 
-https://git-scm.com/docs/git-clone
-https://git-scm.com/docs/git-init
-https://en.wikipedia.org/wiki/Git
-https://blog.devmountain.com/git-vs-github-whats-the-difference/#:~:text=GitHub%E2%80%A6-,what's%20the%20difference%3F,help%20you%20better%20manage%20them.
+ - https://git-scm.com/docs/git-clone
+ - https://git-scm.com/docs/git-init
+ - https://en.wikipedia.org/wiki/Git
+ - https://blog.devmountain.com/git-vs-github-whats-the-difference/#:~:text=GitHub%E2%80%A6-,what's%20the%20difference%3F,help%20you%20better%20manage%20them.
