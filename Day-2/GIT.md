@@ -25,7 +25,7 @@ https://sourabhbajaj.com/mac-setup/Git/README.html
 
 ## GIT Commands
 
-### GIT Setup
+### Install Git
 
 For Linux/WSL
 
@@ -50,6 +50,16 @@ Install Homebrew
 Update Git
 ```
 brew install git
+```
+
+### Configure Git
+
+Congifure git so that we let it know who you are when committing code. 
+
+Copy these commands in your terminal but replace everything in the quotations with your information(leave out the quotations!!)
+```
+git config --global user.name "Your Name"
+git config --global user.email "yourname@example.com"
 ```
 
 ### GIT Clone
