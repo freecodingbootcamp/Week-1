@@ -1,4 +1,4 @@
-# TERMINAL
+# CLI - TERMINAL
 
 Besides actual coding nothing will make you feel like a developer like the command line interface through the terminal. When was the last time you saw a coder on TV use windows explorer to access the 'mainframe'? Uh, never.
 
