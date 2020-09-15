@@ -6,9 +6,9 @@
 
 ### Day 2:
 
- - GIT
- - CLI - TERMINAL
- - WEB INTRO
+ - [GIT ](https://github.com/freecodingbootcamp/Week-1/blob/master/Day-2/GIT.md)
+ - [CLI - TERMINAL ](https://github.com/freecodingbootcamp/Week-1/blob/master/Day-2/CLI-TERMINAL.md)
+ - [INTRO - WEB ](https://github.com/freecodingbootcamp/Week-1/blob/master/Day-2/INTRO-WEB.md)
 
 ### Day 3:
 
