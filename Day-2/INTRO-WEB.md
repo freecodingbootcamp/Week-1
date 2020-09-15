@@ -153,6 +153,9 @@ Remember JavaScript? Well jQuery is a JavaScript library (we’ll go into librar
 
 As we saw with the example of JavaScript (the programming language) and jQuery (a JavaScript library), libraries can save developers considerable time and effort. Libraries are stores of pre-written code, or modules, that programmers can take and insert into the code they’re writing.
 
+Other terms:
+server, client, console, print
+
 
 ### Sources
  - https://www.youtube.com/watch?v=7_LPdttKXPc
