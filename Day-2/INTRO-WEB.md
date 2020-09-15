@@ -156,6 +156,12 @@ As we saw with the example of JavaScript (the programming language) and jQuery (
 Other terms:
 server, client, console, print
 
+## Web Development and Developers
+
+The odin project has a pretty decent page dedicated to introducing web development:
+https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-web-development
+
+
 
 ### Sources
  - https://www.youtube.com/watch?v=7_LPdttKXPc
