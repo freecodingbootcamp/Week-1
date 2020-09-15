@@ -52,7 +52,7 @@ Update Git
 brew install git
 ```
 
-### Configure Git
+### GIT Configure
 
 Congifure git so that we let it know who you are when committing code. 
 
