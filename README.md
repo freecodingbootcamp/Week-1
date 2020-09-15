@@ -10,7 +10,9 @@
  - [CLI - TERMINAL](https://github.com/freecodingbootcamp/Week-1/blob/master/Day-2/CLI-TERMINAL.md)
  - [INTRO - WEB](https://github.com/freecodingbootcamp/Week-1/blob/master/Day-2/INTRO-WEB.md)
 
-### Day 3:
+### [Day 3](https://github.com/freecodingbootcamp/Week-1/tree/master/Day-3):
+
+- [INTRO-FRONTEND](https://github.com/freecodingbootcamp/Week-1/blob/master/Day-3/INTRO-FRONTEND.md)
 
 ### Day 4:
 
