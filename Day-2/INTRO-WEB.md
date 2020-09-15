@@ -3,9 +3,11 @@
 
 "The  **Internet**  is the backbone of the Web, the technical infrastructure that makes the Web possible. At its most basic, the Internet is a large network of computers which communicate all together."  - mozilla.org
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/embed/7_LPdttKXPc)
+## Intro Video
+[![Watch the video](https://i.vimeocdn.com/video/266374742_1280x720.jpg)](https://www.youtube.com/embed/7_LPdttKXPc)
 
-**List of Key Terms**. These will come up in during your learning journey!
+## **List of Key Terms**.
+These will come up in during your learning journey!
 
 **1. API**
 
