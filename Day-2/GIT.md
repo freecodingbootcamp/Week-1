@@ -62,6 +62,12 @@ git config --global user.name "Your Name"
 git config --global user.email "yourname@example.com"
 ```
 
+Enter these commands below and verify that the output matches your name and email address
+```
+git config --get user.name
+git config --get user.email
+```
+
 ### GIT Clone
 
 In GitHub. Look for the green button named "Code" on the right.
