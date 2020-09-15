@@ -1,4 +1,4 @@
-# FRONTEND INTRO
+# FRONT-END INTRO
 
 If back-end is the factory where goods are produced, front-end is the store where the goods are sold! Front-end is what the user sees. Front-end is HTML, CSS and JavaScript all running and rendering within the users browser. You can see all the code that being run! Nothing is hidden. Everything is in plain sight. Front-end is more concerned about how things look and handling user interactions. It does not worry about  retrieving sensitive information from a database. It can however request that information from the back-end. Front-end is light while back-end is heavy.
 
