@@ -25,6 +25,33 @@ https://sourabhbajaj.com/mac-setup/Git/README.html
 
 ## GIT Commands
 
+### GIT Setup
+
+For Linux/WSL
+
+Run these commands to update Linux system
+```
+sudo apt update
+sudo apt upgrade
+```
+Then Install git
+```
+sudo apt install curl git
+```
+
+For MacOS
+
+Install Homebrew
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+
+```
+
+Update Git
+```
+brew install git
+```
+
 ### GIT Clone
 
 In GitHub. Look for the green button named "Code" on the right.
