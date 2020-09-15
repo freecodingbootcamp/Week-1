@@ -19,6 +19,10 @@ The odin project has a great page dedicated to setting up git.
 
 https://www.theodinproject.com/courses/web-development-101/lessons/setting-up-git
 
+Here is an additional decent source: 
+
+https://sourabhbajaj.com/mac-setup/Git/README.html
+
 ## GIT Commands
 
 ### GIT Clone

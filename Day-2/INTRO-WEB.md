@@ -161,7 +161,9 @@ server, client, console, print
 The odin project has a pretty decent page dedicated to introducing web development:
 https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-web-development
 
-
+## [Optional] Developer Roadmap Path
+Here is a slightly overloaded / confusing developers roadmap.  At least for brand new developers and in my opinion.
+https://github.com/kamranahmedse/developer-roadmap
 
 ### Sources
  - https://www.youtube.com/watch?v=7_LPdttKXPc
