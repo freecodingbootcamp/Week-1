@@ -71,6 +71,8 @@ git config --get user.email
 ### GIT Clone
 
 In GitHub. Look for the green button named "Code" on the right.
+<img src="https://i.imgur.com/RTGGUc6.png" title="Git Clone" alt="Git clone">
+
 Copy the repo url.
 ```
 git clone [repo url]
