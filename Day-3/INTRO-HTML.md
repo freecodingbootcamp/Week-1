@@ -84,7 +84,7 @@ So for example:
     <img src="w3schools.jpg"  alt="W3Schools.com"  width="104"  height="142">
 
 ## Self Closing Tags?!
-Not all elements are created equal! There are such thing as self closing elements. img elements are one of those. It makes sense if you think about it. Not everything needs content. In some instances the element is the content! Here are a few other self closing tags. You don't really have to memorize these. You will just start using them correctly and not even realize that you don't have to close them. Funny how that works...
+Not all elements are created equal! There are such thing as self closing elements. img elements are one of those. It makes sense if you think about it. Not everything needs content. In some instances the element is the content! Here are a few other self closing tags. You don't really have to memorize these. You will just start using them correctly and not even realize that you don't have to close them. Funny how that works.
 
 -   `<br>`
 -   `<embed>`
@@ -96,3 +96,7 @@ Not all elements are created equal! There are such thing as self closing element
 -   `<param>`
 -   `<source>`
 -   `<wbr>`
+
+### Sources
+
+ - https://learn.shayhowe.com/
