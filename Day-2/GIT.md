@@ -25,7 +25,7 @@ https://sourabhbajaj.com/mac-setup/Git/README.html
 
 ## GIT Commands
 
-### GIT Setup
+### Install Git
 
 For Linux/WSL
 
@@ -52,9 +52,27 @@ Update Git
 brew install git
 ```
 
+### GIT Configure
+
+Congifure git so that we let it know who you are when committing code. 
+
+Copy these commands in your terminal but replace everything in the quotations with your information(leave out the quotations!!)
+```
+git config --global user.name "Your Name"
+git config --global user.email "yourname@example.com"
+```
+
+Enter these commands below and verify that the output matches your name and email address
+```
+git config --get user.name
+git config --get user.email
+```
+
 ### GIT Clone
 
 In GitHub. Look for the green button named "Code" on the right.
+<img src="https://i.imgur.com/RTGGUc6.png" title="Git Clone" alt="Git clone">
+
 Copy the repo url.
 ```
 git clone [repo url]
