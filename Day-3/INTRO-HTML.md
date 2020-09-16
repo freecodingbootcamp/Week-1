@@ -61,7 +61,7 @@ RAW HTML:
  - `<body></body>`The second of two main sections of an HTML document.
    The <body> section contains all the content of the web page.
 
-### Common Structure Tags
+### Common Text Structure Tags
 
  - `<h1> to <h6></h1>to</h6>` Headings. H1 is the main heading, H2 is
    secondary, etc.
