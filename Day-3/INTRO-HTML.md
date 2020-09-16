@@ -29,3 +29,49 @@ RAW HTML:
  Let's look at the output/rendered form:
 
 ![html output](https://raw.githubusercontent.com/Team-FCB/Assets/master/simple_html.png)
+
+## HTML Key Terms
+
+ - Element
+ - Tag
+ - Attribute
+ - Values
+ - Parent Element
+ - Child Element
+
+
+ ![html element breakdown](https://raw.githubusercontent.com/Team-FCB/Assets/master/html_element.png)
+source: tutorialrepublic.com
+
+**Parent child example**:
+
+    <div>
+	    <h2>I am a child!</h2>
+	    <p>So am I and I got a sister!</p>
+    </div>
+
+## Most Common Types of Elements:
+
+### Document Structure
+`<html></html>` Opens and closes an HTML document
+`<head></head>` The first of two main sections of an HTML document. The <head> section is used to provide information about the document for use primarily by search engines and browsers.
+`<title></title>` The title of document. This element is nested inside the <head> section.  **In HTML5, this is the only required tag other than the DOCTYPE declaration.**
+`<body></body>`The second of two main sections of an HTML document. The <body> section contains all the content of the web page.
+
+### Common Structure Tags
+
+`<h1> to <h6></h1>to</h6>` Headings. H1 is the main heading, H2 is secondary, etc.
+`<p></p>`Paragraph
+`<div></div>`A container for a  _block_  of content
+`<span></span>`A container for  _in-line_  content, such as content inside a paragraph.
+`<em></em>` Gives the contained text emphasis (usually as  _italics_).
+`<strong></strong>` Makes the contained text  **bold**.
+`<a href = "document location"></a>`Link
+`<ol></ol>`Ordered (numbered) list
+`<ul></ul>`Unordered (bulleted) list
+`<!-- -->`Comment. Anything between these tags is not displayed on the screen. This is useful for making notes to yourself or to others who may view the source code of the web page.
+
+`<img></img>` Image tag!  Usually comes with src and alt attributes. You can also provide a width and height attribute.
+So for example:
+
+    <img src="w3schools.jpg"  alt="W3Schools.com"  width="104"  height="142">
