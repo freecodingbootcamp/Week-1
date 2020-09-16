@@ -75,10 +75,24 @@ RAW HTML:
  - `<ol></ol>`Ordered (numbered) list
  - `<ul></ul>`Unordered (bulleted) list
  - `<!-- -->`Comment. Anything between these tags is not displayed on the screen. This is useful for making notes to yourself or to others who may view the source code of the web page.
- - `<img></img>` Image tag!  Usually comes with src and alt attributes.
+ - `<img>` Image tag!  Usually comes with src and alt attributes.
 
 You can also provide a width and height attribute.
 
 So for example:
 
     <img src="w3schools.jpg"  alt="W3Schools.com"  width="104"  height="142">
+
+## Self Closing Tags?!
+Not all elements are created equal! There are such thing as self closing elements. img elements are one of those. It makes sense if you think about it. Not everything needs content. In some instances the element is the content! Here are a few other self closing tags. You don't really have to memorize these. You will just start using them correctly and not even realize that you don't have to close them. Funny how that works.
+
+-   `<br>`
+-   `<embed>`
+-   `<hr>`
+-   `<img>`
+-   `<input>`
+-   `<link>`
+-   `<meta>`
+-   `<param>`
+-   `<source>`
+-   `<wbr>`
