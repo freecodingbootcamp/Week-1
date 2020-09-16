@@ -28,4 +28,4 @@ RAW HTML:
 
  Let's look at the output/rendered form:
 
-![enter image description here](https://raw.githubusercontent.com/Team-FCB/Assets/master/simple_html.png)
+![html output](https://raw.githubusercontent.com/Team-FCB/Assets/master/simple_html.png)
