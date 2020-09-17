@@ -19,54 +19,12 @@ The odin project has a great page dedicated to setting up git.
 
 https://www.theodinproject.com/courses/web-development-101/lessons/setting-up-git
 
-Here is an additional decent source: 
+Here is an additional decent source:
 
 https://sourabhbajaj.com/mac-setup/Git/README.html
 
 ## GIT Commands
 
-### Install Git
-
-For Linux/WSL
-
-Run these commands to update Linux system
-```
-sudo apt update
-sudo apt upgrade
-```
-Then Install git
-```
-sudo apt install curl git
-```
-
-For MacOS
-
-Install Homebrew
-```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-
-```
-
-Update Git
-```
-brew install git
-```
-
-### GIT Configure
-
-Congifure git so that we let it know who you are when committing code. 
-
-Copy these commands in your terminal but replace everything in the quotations with your information(leave out the quotations!!)
-```
-git config --global user.name "Your Name"
-git config --global user.email "yourname@example.com"
-```
-
-Enter these commands below and verify that the output matches your name and email address
-```
-git config --get user.name
-git config --get user.email
-```
 
 ### GIT Clone
 
@@ -84,7 +42,7 @@ cd [name of folder]
 Start a new Git repository for an existing code base
 
 ```
-cd /path/to/file
+cd /path/to/desired_project_folder
 git init
 ```
 If you see a hidden .git file you are good to go. Run the command ```ls -a```
