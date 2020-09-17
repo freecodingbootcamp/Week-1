@@ -50,4 +50,4 @@ And this is how it looks now:
 
 ![HTML rendering with CSS](https://raw.githubusercontent.com/Team-FCB/Assets/master/html_simple_render.png)
 
-We changed the background color and the text color.
+We changed the background and text colors and also centered the header (h1) element.
