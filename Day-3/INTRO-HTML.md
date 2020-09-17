@@ -97,6 +97,18 @@ Not all elements are created equal! There are such thing as self closing element
 -   `<source>`
 -   `<wbr>`
 
+## Good Practices
+
+I don't know Shay personally but he has created a terrific HTML (& CSS) 'good practices' page. Please check it out!
+https://learn.shayhowe.com/html-css/writing-your-best-code/
+
+
+## Continue on W3 Schools
+Please don't forget to go through the W3 schools HTML Tutorial. It's just awesome!
+https://www.w3schools.com/html
+
+
 ### Sources
 
  - https://learn.shayhowe.com/
+ - https://learn.shayhowe.com/html-css/writing-your-best-code/
