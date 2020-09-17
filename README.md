@@ -17,6 +17,6 @@
 
 ### [Day 4](https://github.com/freecodingbootcamp/Week-1/tree/master/Day-4):
 
-- [INTRO-CSS](https://github.com/freecodingbootcamp/Week-1/blob/master/Day-4/INTRO-CSS)
+- [INTRO-CSS](https://github.com/freecodingbootcamp/Week-1/blob/master/Day-4/INTRO-CSS.md)
 
 ### [Day 5](https://github.com/freecodingbootcamp/Week-1/tree/master/Day-5):
