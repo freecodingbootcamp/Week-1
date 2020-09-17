@@ -17,7 +17,7 @@ Let me just show you. Here is some HTML markup:
 
 It looks like this when rendered (in browser)
 
-![rendering of the html markup above it](https://raw.githubusercontent.com/Team-FCB/Assets/master/simple_html.png)
+![rendering of the html markup above it](https://raw.githubusercontent.com/Team-FCB/Assets/master/html_simple_markup.png)
 
 Let's add some CSS
 
