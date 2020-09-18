@@ -97,6 +97,25 @@ Not all elements are created equal! There are such thing as self closing element
 -   `<source>`
 -   `<wbr>`
 
+## Semantic Elements in HTML
+
+> Semantic elements = elements with a meaning.
+
+source: w3Schools.com...Genius!
+-   `<article>`
+-   `<aside>`
+-   `<details>`
+-   `<figcaption>`
+-   `<figure>`
+-   `<footer>`
+-   `<header>`
+-   `<main>`
+-   `<mark>`
+-   `<nav>`
+-   `<section>`
+-   `<summary>`
+-   `<time>`
+
 ## Good Practices
 
 I don't know Shay personally but he has created a terrific HTML (& CSS) 'good practices' page. Please check it out!
