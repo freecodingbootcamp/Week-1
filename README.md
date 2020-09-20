@@ -3,7 +3,7 @@
 ### [Day 1](https://github.com/freecodingbootcamp/Week-1/tree/master/Day-1):
 
  - Intro Day
-
+ 
 ### [Day 2](https://github.com/freecodingbootcamp/Week-1/tree/master/Day-2):
 
  - [GIT](https://github.com/freecodingbootcamp/Week-1/blob/master/Day-2/GIT.md)
