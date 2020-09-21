@@ -117,3 +117,15 @@ This selector in between specific and broad. You can select a set of elements th
      }
 
 ## Group Selector
+
+What if you wanted to select and style multiple elements? Simple, seperate them with a comma. So something like this:
+
+    p, .container, #container {
+    	color: blue;
+    }
+
+## Continue on W3 Schools
+
+Please finish reading up on CSS on W3 schools CSS tutorial site:
+
+https://www.w3schools.com/css/
