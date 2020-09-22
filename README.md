@@ -1,9 +1,9 @@
 # Week-1
- 
+
 ### [Day 1](https://github.com/freecodingbootcamp/Week-1/tree/master/Day-1):
 
  - Intro Day
- 
+
 ### [Day 2](https://github.com/freecodingbootcamp/Week-1/tree/master/Day-2):
 
  - [GIT](https://github.com/freecodingbootcamp/Week-1/blob/master/Day-2/GIT.md)
@@ -17,6 +17,5 @@
 
 ### [Day 4](https://github.com/freecodingbootcamp/Week-1/tree/master/Day-4):
 
-- [INTRO-CSS](https://github.com/freecodingbootcamp/Week-1/blob/master/Day-4/INTRO-CSS.md)
 
 ### [Day 5](https://github.com/freecodingbootcamp/Week-1/tree/master/Day-5):
